@@ -62,7 +62,6 @@ else:
     device = 'cpu'  
     cast_device = 'cpu'
 
-access_token = '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'
 
 def main():
     

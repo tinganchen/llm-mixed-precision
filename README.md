@@ -11,7 +11,11 @@ Mixed-precision LLMs, Transformer Blocks, Quantization Error, Bit Allocation
 
 ## Overview
 
+* Overview of Mixed-prcision LLMs
+<img src="fig/overview.pdf" width="600" height="250">
 
+* Stategy of Bit Allocation (Measurement of block adversaries, i.e., quantization errors)
+<img src="fig/overview_attention.pdf" width="600" height="250">
 
 ## Experiments
 

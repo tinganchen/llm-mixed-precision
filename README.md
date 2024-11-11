@@ -10,7 +10,7 @@ Mixed-precision LLMs, Transformer Blocks, Quantization Error, Bit Allocation
 * tensorboardx==1.4
 
 ## Motivations
-Quantization errors are varying within different transformer blocks, especially for larger LLMs (see ["fig/intro_error.pdf"]("fig/intro_error.pdf")). That is, some blocks are much sensitive to bitwidth compression, which may lead to severe performance degradation. Therefore, we tend to assign more bits to these sensitive blocks and fewer bits to the other blocks for the maintenance of efficiency.
+Quantization errors are varying within different transformer blocks, especially for larger LLMs (see ["fig/intro_error.pdf"]("fig/intro_error.pdf")). That is, some blocks are much sensitive to bitwidth compression, which may lead to severe performance degradation. Therefore, in this project, we tend to assign more bits to these sensitive blocks and fewer bits to the other blocks for the maintenance of efficiency.
 
 
 

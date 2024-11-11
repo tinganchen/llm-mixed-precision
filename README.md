@@ -68,6 +68,9 @@ bash search.sh
 cd text_generation/
 bash run.sh
 ```
+## Results
+
+See ["fig/result.png"]("fig/result.png").
 
 ## Reference
 

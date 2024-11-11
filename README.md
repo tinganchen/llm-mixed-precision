@@ -16,9 +16,9 @@ Quantization errors are varying within different transformer blocks, especially 
 
 ## Overview
 
-* Overview of Mixed-prcision LLMs (see ["fig/overview.pdf"]("fig/overview.pdf"))
+* Overview of Mixed-prcision LLMs (see ["fig/overview.pdf"](fig/overview.pdf))
 
-* Illustration of Bit Allocation Stategy (see ["fig/overview_attention.pdf"]("fig/overview_attention.pdf")) - Measurement of block adversaries, i.e., quantization errors 
+* Illustration of Bit Allocation Stategy (see ["fig/overview_attention.pdf"](fig/overview_attention.pdf)) - Measurement of block adversaries, i.e., quantization errors 
 
 
 ## Experiments
@@ -70,7 +70,7 @@ bash run.sh
 ```
 ## Results
 
-See ["fig/result.png"]("fig/result.png").
+See ["fig/result.png"](fig/result.png).
 
 ## Reference
 

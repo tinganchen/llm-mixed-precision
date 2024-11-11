@@ -64,3 +64,4 @@ bash run.sh
 ## Reference
 
 * Download of Datasets & Evaluation of LLM Models - [Github Link](https://github.com/EleutherAI/lm-evaluation-harness)
+* Mixed-precision CNN Models - [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Cai_ZeroQ_A_Novel_Zero_Shot_Quantization_Framework_CVPR_2020_paper.pdf)

@@ -24,8 +24,6 @@ Other Tasks (eg. Question Answering)  |GPT-2 (124M) & OPT (1.3B, 2.7B, 6.7B) & L
 
 ### Benchmark Datasets & Evaluation
 
-* Reference - [Language Model Evaluation Harness](https://github.com/EleutherAI/lm-evaluation-harness)
-
 ```shell
 cd text_generation/
 git clone https://github.com/EleutherAI/lm-evaluation-harness.git
@@ -63,3 +61,6 @@ cd text_generation/
 bash run.sh
 ```
 
+## Reference
+
+* Download of Datasets & Evaluation of LLM Models - [Github Link](https://github.com/EleutherAI/lm-evaluation-harness)

@@ -22,6 +22,22 @@ Other Tasks (eg. Question Answering)  |GPT-2 (124M) & OPT (1.3B, 2.7B, 6.7B) & L
 
 ## Preparation
 
+### Benchmark Datasets & Evaluation
+
+* Reference - [Language Model Evaluation Harness](https://github.com/EleutherAI/lm-evaluation-harness)
+
+```shell
+cd text_generation/
+git clone https://github.com/EleutherAI/lm-evaluation-harness.git
+```
+
+```shell
+cd qa/
+git clone https://github.com/EleutherAI/lm-evaluation-harness.git
+```
+
+ps. After the repo is cloned, code needs to be modified subtly to be consistent with the inference code.
+
 ### Calculation of FLOPs
 
 ```shell

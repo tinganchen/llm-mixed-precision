@@ -1,5 +1,5 @@
 # LLM Project - Mixed-precision LLM Models by Bit Allocation for Efficiency
-(@NVIDIA Research Team & Academia Sinica)
+(@NVIDIA Research Team & NTU)
 Mixed-precision LLMs, Transformer Blocks, Quantization Error, Bit Allocation
 
 ## Requirements
